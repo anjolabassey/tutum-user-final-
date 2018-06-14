@@ -1,0 +1,42 @@
+body {
+  text-align: center; }
+
+h1 {
+  color: #899094;
+  font-weight: bold;
+  font-size: 100px;
+  margin-top: 150px;
+  margin-bottom: 10px;
+  font-family: 'Berkshire Swash', cursive; }
+
+.search {
+  position: relative;
+  width: 70%;
+  margin: 30px 15%;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+  background-color: white; }
+  .search:hover {
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4); }
+
+.search-icon {
+  position: absolute;
+  top: 41%;
+  right: 18%;
+  color: grey; }
+
+.searchButton {
+  color: #899094;
+  padding: 8px;
+  margin: 30px;
+  width: 100px;
+  background-color: #D7DEE1;
+  font-family: 'Source Sans Pro', sans-serif;
+  cursor: pointer;
+  font-weight: bold; }
+  .searchButton:hover {
+    color: black;
+    border: 1px;
+    background-color: #99aeb8;
+    font-weight: bold; }
+
+/*# sourceMappingURL=style.css.map */
